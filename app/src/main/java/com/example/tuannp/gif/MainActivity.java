@@ -155,7 +155,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }).show();
                 return true;
-
             default:
                 return super.onOptionsItemSelected(item);
 
